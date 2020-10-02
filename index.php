@@ -1,6 +1,6 @@
 <?php
 /* Required settings     */
-$CLOAKING['WHITE_PAGE'] = 'index1.php';//PHP/HTML file or URL used for bots
+$CLOAKING['WHITE_PAGE'] = 'index1.html';//PHP/HTML file or URL used for bots
 $CLOAKING['OFFER_PAGE'] = 'https://tds.pdl-profit.com?offerid=1486&affid=20920';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'off';// replace "on" with "off" to switch from debug to production mode
 /*********************************************/
